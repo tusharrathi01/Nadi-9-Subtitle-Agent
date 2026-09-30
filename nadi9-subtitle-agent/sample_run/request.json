@@ -1,0 +1,29 @@
+{
+  "episodeId": "EP-MOCK-001",
+  "subtitles": [
+    {
+      "subtitleId": "S001",
+      "sourceIn": "00:00:01.000",
+      "sourceOut": "00:00:03.500",
+      "speaker": "AMAR",
+      "sceneId": "SC01",
+      "sourceText": "Where are you going?"
+    },
+    {
+      "subtitleId": "S002",
+      "sourceIn": "00:00:08.000",
+      "sourceOut": "00:00:11.000",
+      "speaker": "AMAR",
+      "sceneId": "SC02",
+      "sourceText": "You came back, elder brother?"
+    },
+    {
+      "subtitleId": "S003",
+      "sourceIn": "00:00:15.000",
+      "sourceOut": "00:00:18.000",
+      "speaker": "BEBE",
+      "sceneId": "SC03",
+      "sourceText": "The wall is purple."
+    }
+  ]
+}

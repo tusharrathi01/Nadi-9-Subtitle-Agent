@@ -1,0 +1,92 @@
+[
+  {
+    "id": "dictionary:A:where",
+    "sourceType": "dictionary-A",
+    "title": "Dictionary A - where",
+    "author": "Earlier vendor",
+    "date": "2026-01-10",
+    "scope": "basic vocabulary",
+    "reliability": 0.55,
+    "text": "where = nako"
+  },
+  {
+    "id": "dictionary:A:you",
+    "sourceType": "dictionary-A",
+    "title": "Dictionary A - you",
+    "author": "Earlier vendor",
+    "date": "2026-01-10",
+    "scope": "basic vocabulary",
+    "reliability": 0.55,
+    "text": "you = tira"
+  },
+  {
+    "id": "dictionary:A:going",
+    "sourceType": "dictionary-A",
+    "title": "Dictionary A - going",
+    "author": "Earlier vendor",
+    "date": "2026-01-10",
+    "scope": "basic vocabulary",
+    "reliability": 0.55,
+    "text": "going = vesh"
+  },
+  {
+    "id": "grammar:word-order-1",
+    "sourceType": "grammar-note",
+    "title": "Grammar note - word order",
+    "author": "Language team",
+    "date": "2026-02-01",
+    "scope": "basic clauses",
+    "reliability": 0.82,
+    "text": "Neutral questions commonly use the order question-marker, subject, verb."
+  },
+  {
+    "id": "expert:E03",
+    "sourceType": "expert-note",
+    "title": "Expert note - kinship",
+    "author": "Language specialist 3",
+    "date": "2026-02-12",
+    "scope": "family and status",
+    "reliability": 0.91,
+    "text": "Kinship forms can vary with age and relationship status. Older sibling address may require a dedicated form."
+  },
+  {
+    "id": "dictionary:B:kinship",
+    "sourceType": "dictionary-B",
+    "title": "Dictionary B - elder brother",
+    "author": "Community linguist",
+    "date": "2026-02-18",
+    "scope": "kinship",
+    "reliability": 0.94,
+    "text": "elder brother = ama-ru; informal sibling reference may differ."
+  },
+  {
+    "id": "dictionary:A:kinship",
+    "sourceType": "dictionary-A",
+    "title": "Dictionary A - elder brother",
+    "author": "Earlier vendor",
+    "date": "2026-01-10",
+    "scope": "kinship",
+    "reliability": 0.55,
+    "text": "elder brother = tora"
+  },
+  {
+    "id": "feedback:F01",
+    "sourceType": "viewer-feedback",
+    "title": "Pilot viewer feedback",
+    "author": "Pilot users",
+    "date": "2026-03-01",
+    "scope": "relationship tone",
+    "reliability": 0.45,
+    "text": "Viewers noticed that respectful and intimate relationship forms should not be mixed."
+  },
+  {
+    "id": "expert:E01",
+    "sourceType": "expert-note",
+    "title": "Expert note - unsupported color",
+    "author": "Language specialist 1",
+    "date": "2026-02-08",
+    "scope": "vocabulary",
+    "reliability": 0.88,
+    "text": "No approved evidence currently establishes a Nadi-9 word for purple."
+  }
+]

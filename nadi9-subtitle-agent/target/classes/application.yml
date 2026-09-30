@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+nadi9:
+  provider: ${NADI9_PROVIDER:mock}
+  llm:
+    url: ${NADI9_LLM_URL:http://localhost:11434/v1/chat/completions}
+    model: ${NADI9_LLM_MODEL:mock-model}
+    api-key: ${NADI9_LLM_API_KEY:}
+  budget:
+    max-model-calls: ${NADI9_MAX_MODEL_CALLS:25}
+    max-tool-calls: ${NADI9_MAX_TOOL_CALLS:50}

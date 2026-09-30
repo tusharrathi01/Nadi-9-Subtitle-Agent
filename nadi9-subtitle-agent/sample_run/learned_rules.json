@@ -1,0 +1,16 @@
+{
+  "rules": [
+    {
+      "id": "R001",
+      "claim": "Neutral questions commonly use question-marker, subject, verb.",
+      "status": "SUPPORTED_WITH_LIMITS",
+      "evidence": ["grammar:word-order-1"]
+    },
+    {
+      "id": "R002",
+      "claim": "Kinship forms can vary by age and relationship status.",
+      "status": "SUPPORTED",
+      "evidence": ["expert:E03", "dictionary:B:kinship"]
+    }
+  ]
+}

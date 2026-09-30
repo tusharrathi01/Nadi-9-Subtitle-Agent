@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "subtitleId": "S002",
+      "priority": "HIGH",
+      "question": "Which kinship form applies in this relationship?",
+      "reason": "Conflicting dictionary evidence."
+    },
+    {
+      "subtitleId": "S003",
+      "priority": "HIGH",
+      "question": "What is the supported Nadi-9 term for 'purple'?",
+      "reason": "No approved vocabulary evidence."
+    }
+  ]
+}
